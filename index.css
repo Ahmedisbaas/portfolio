@@ -1,0 +1,19 @@
+body {
+  background-image: url("https://t.jwwb.nl/851eGTdX_Qj4Yq0UuoU_SGOXbUM=/667x0/f.jwwb.nl%2Fpublic%2Fo%2Fa%2Fn%2Fvetteachtergronden%2Fmk6oji%2F695962__background-wallpaper-cool_p.jpg");
+color: white
+}
+
+td{
+  Background-color: white;
+  color: black;
+  border: 2px solid red;
+}
+th{
+  background-color: white;
+  color: Red;
+    border: 2px solid Red;
+}
+
+table, th, td {
+  border: 2px solid Red;
+}
